@@ -19,6 +19,7 @@ public class EvenorOdd {
            }else{
             System.out.println(num +" is even number");
            }
+           sc.close();
     }
 
     
