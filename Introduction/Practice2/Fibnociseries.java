@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Practice2;
 import java.util.Scanner;
 public class Fibnociseries {
     public static void main(String[] args){
@@ -9,11 +9,14 @@ Scanner sc=new Scanner(System.in);
         System.out.print(a+" "+b+"");
         for(int i=2;i<=n;i++){
             int c=a+b;
-            System.out.print(c+" ");
+            //System.out.print(c+" ");
             a=b;
             b=c;
-            //System.out.print(c+" ");
+            System.out.print(c+" ");
         }
+        
+       sc.close(); 
+
     }
     
 }

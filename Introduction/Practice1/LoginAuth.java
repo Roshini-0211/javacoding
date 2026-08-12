@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Practice1;
 import java.util.Scanner;
 public class LoginAuth {
     public static void main(String[] args) {
@@ -14,6 +14,7 @@ public class LoginAuth {
             } else { 
                 System.out.println("Login failed: Password must be 6 or more characters!"); 
             } 
+            sc.close();
         }
         
        

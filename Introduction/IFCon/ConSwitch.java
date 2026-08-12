@@ -1,4 +1,4 @@
-package PracticeProblem;
+package IFCon;
 import java.util.Scanner;
 public class ConSwitch {
     public static void main(String[] args){
@@ -41,7 +41,7 @@ public class ConSwitch {
        }
         
 
-
+sc.close();
     }
     
 }

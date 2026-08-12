@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Looping;
 
 public class ForLoopNested {
     public static  void main(String[] args){

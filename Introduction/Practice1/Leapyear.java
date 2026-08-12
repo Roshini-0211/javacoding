@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Practice1;
 
 public class Leapyear {
     public static void main (String[]args){

@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Practice2;
 
 public class SimpleInt {
     public static void main(String[] args) {

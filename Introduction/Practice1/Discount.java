@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Practice1 ;
 import java.util.Scanner;
 public class Discount {
     public static void main (String[]args){
@@ -22,6 +22,7 @@ public class Discount {
         finalPrice=price-(price*(discount/100));
 
         System.out.println("Final Price is : "+finalPrice);
+        sc.close();
     }
     
 }

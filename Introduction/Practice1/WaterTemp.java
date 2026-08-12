@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Practice1;
 
 public class WaterTemp {
     public static void main(String[] args) {

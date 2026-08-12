@@ -1,3 +1,4 @@
+package PracticeProblem;
 import java.util.Scanner;
 class UserInput {
     public static void main(String[] args) {

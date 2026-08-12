@@ -1,16 +1,17 @@
-package PracticeProblem;
+package Practice2;
 
 public class Prime {
     public static void main(String[] args) {
         
-        int num = 29;
+        int num = 11;
         boolean isPrime = true;
-
+        // int count=0;
         for (int i = 2; i <= num-1; i++) {
-            
-            System.out.println(i);
-            if (num % i == 0) {
+            //int count=0;
+           // System.out.println(i);
+            if (num % i== 0) {
                 isPrime = false;
+               // count ++;
                 //break;
             }
         }
@@ -22,6 +23,7 @@ public class Prime {
         } else {
             System.out.println(num + " is not a prime number.");
         }
+        
     }
     
 }

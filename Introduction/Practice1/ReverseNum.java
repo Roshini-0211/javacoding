@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Practice1;
 import java.util.Scanner;
 public class ReverseNum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package PracticeProblem;
+package IFCon;
 
 public class ConIfElseIf {
     public static void main(String[]args){

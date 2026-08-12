@@ -1,4 +1,4 @@
-package PracticeProblem;
+package Looping;
 
 public class WhileSimple {
     public static void main (String []args){
