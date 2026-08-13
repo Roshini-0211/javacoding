@@ -1,5 +1,5 @@
 package Method;
-
+//withput retuen type without argumenyst
 public class Method4 {
     public void add1(){
         int a=12;int b=23;
