@@ -3,13 +3,13 @@ package Practice2;
 public class Prime {
     public static void main(String[] args) {
         
-        int num = 11;
+        int nums = 11;
         boolean isPrime = true;
         // int count=0;
-        for (int i = 2; i <= num-1; i++) {
+        for (int i = 2; i <= nums-1; i++) {
             //int count=0;
            // System.out.println(i);
-            if (num % i== 0) {
+            if (nums % i== 0) {
                 isPrime = false;
                // count ++;
                 //break;
@@ -19,9 +19,9 @@ public class Prime {
         if (isPrime) {
         
 
-            System.out.println(num + " is a prime number.");
+            System.out.println(nums + " is a prime number.");
         } else {
-            System.out.println(num + " is not a prime number.");
+            System.out.println(nums + " is not a prime number.");
         }
         
     }
