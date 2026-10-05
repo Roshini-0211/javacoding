@@ -22,8 +22,9 @@ public class BasicMethods {
         int arr1[]=new int[size];
         //initize array
         arr1[0]=45;
-         arr1[1]=45;
-          arr1[2]=45;
+         arr1[1]=34;
+          arr1[2]=56;
+          arr1[3]=564;
         //print arary
         for(int i=0;i<size;i++){
             System.out.println(arr1[i]);
